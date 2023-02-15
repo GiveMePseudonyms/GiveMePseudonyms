@@ -13,5 +13,5 @@
 
 <h2 align="left">🏋️‍♂️ Currently Working On:</h2>
 
-- [Project Euler](https://github.com/GiveMePseudonyms/Project_Euler)
-- [Pi Visualisations](https://github.com/GiveMePseudonyms/PiVisualisations)
+- [Project Euler](https://github.com/GiveMePseudonyms/Project_Euler) - My solutions to the project Euler challenges
+- [Pi Visualisations](https://github.com/GiveMePseudonyms/PiVisualisations) - A way to visualise millions of digits of Pi
