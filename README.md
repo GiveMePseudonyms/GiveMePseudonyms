@@ -15,3 +15,4 @@
 
 - [Project Euler](https://github.com/GiveMePseudonyms/Project_Euler) - My solutions to the project Euler challenges
 - [Pi Visualisations](https://github.com/GiveMePseudonyms/PiVisualisations) - A way to visualise millions of digits of Pi
+- [EpidemicSim](https://github.com/GiveMePseudonyms/Epidemic-Sim) - Agent-based modelling solution to analyse the spread of infectious diseases factoring in prevention methods
