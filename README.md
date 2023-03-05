@@ -14,5 +14,6 @@
 <h2 align="left">🏋️‍♂️ Currently Working On:</h2>
 
 - [Project Euler](https://github.com/GiveMePseudonyms/Project_Euler) - My solutions to the project Euler challenges
-- [Pi Visualisations](https://github.com/GiveMePseudonyms/PiVisualisations) - A way to visualise millions of digits of Pi
+- [Pi Visualisations in C#](https://github.com/GiveMePseudonyms/PiVisualisationsCSharp) - A way to visualise millions of digits of Pi, written in C#
+- [Pi Visualisations](https://github.com/GiveMePseudonyms/PiVisualisations) - A way to visualise millions of digits of Pi, written in Python
 - [EpidemicSim](https://github.com/GiveMePseudonyms/Epidemic-Sim) - Agent-based modelling solution to analyse the spread of infectious diseases factoring in prevention methods
