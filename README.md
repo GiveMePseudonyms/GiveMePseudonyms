@@ -1,6 +1,8 @@
 
+![image](https://user-images.githubusercontent.com/113452530/222985603-40d409e0-2ea2-4454-ab0b-2a1e349914b2.png)
 
-<h1 align="center">Hi 👋, I'm GiMePs</h1>
+
+<h1 align="center">I'm GiMePs</h1>
 <h3 align="center">C# and Python enthusiast, Agent-Based Modelling fan, camelCapsEnjoyer.</h3>
 
 <h2 align="left">🖥️ Languages and Tools:</h2>
