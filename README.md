@@ -8,8 +8,7 @@
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
+![image](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 
 <h2 align="left">📊 Stats:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=givemepseudonyms&show_icons=true&locale=en" alt="givemepseudonyms" /></p>
