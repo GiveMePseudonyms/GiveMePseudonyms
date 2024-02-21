@@ -11,6 +11,11 @@
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 
+## On:
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 <h2 align="left">📊 Stats:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=givemepseudonyms&show_icons=true&locale=en" alt="givemepseudonyms" /></p>
 
