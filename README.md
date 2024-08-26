@@ -21,7 +21,7 @@
 
 <h2 align="left">🏋️‍♂️ Currently Working On:</h2>
 
-- [Pi Visualisations in C#](https://github.com/GiveMePseudonyms/PiVisualisationsCSharp) - A way to visualise millions of digits of Pi, written in C#. Using .NET and WPF.
+- Project Discgo - Early stages, will be made public soon.
 - [Project Euler](https://github.com/GiveMePseudonyms/Project_Euler) - My solutions to the project Euler challenges
 - [Pi Visualisations in Python](https://github.com/GiveMePseudonyms/PiVisualisations) - A way to visualise millions of digits of Pi, written in Python. Using Pygame and Tkinter.
 - [EpidemicSim](https://github.com/GiveMePseudonyms/Epidemic-Sim) - Agent-based modelling solution to analyse the spread of infectious diseases factoring in prevention methods. Writen in Python using Tkinter.
